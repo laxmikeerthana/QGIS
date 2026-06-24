@@ -1,0 +1,872 @@
+{
+  "type": "FeatureCollection",
+  "name": "SF Retail Stores",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Whole Foods Market",
+        "category": "Grocery",
+        "neighborhood": "SoMa",
+        "address": "399 4th St, SoMa",
+        "rating": 4.2,
+        "employees": 120,
+        "sqft": 45000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3994,
+          37.7849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Safeway Marina",
+        "category": "Grocery",
+        "neighborhood": "Marina",
+        "address": "15 Marina Blvd, Marina",
+        "rating": 3.8,
+        "employees": 95,
+        "sqft": 50000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4375,
+          37.803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Trader Joe's Fisherman's Wharf",
+        "category": "Grocery",
+        "neighborhood": "Fisherman's Wharf",
+        "address": "401 Bay St, Fisherman's Wharf",
+        "rating": 4.5,
+        "employees": 80,
+        "sqft": 12000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4053,
+          37.7966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Rainbow Grocery Cooperative",
+        "category": "Grocery",
+        "neighborhood": "Mission",
+        "address": "1745 Folsom St, Mission",
+        "rating": 4.6,
+        "employees": 55,
+        "sqft": 8000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4138,
+          37.7688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Bi-Rite Market",
+        "category": "Grocery",
+        "neighborhood": "Mission",
+        "address": "3639 18th St, Mission",
+        "rating": 4.7,
+        "employees": 40,
+        "sqft": 3000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4259,
+          37.7625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Gus's Community Market",
+        "category": "Grocery",
+        "neighborhood": "Excelsior",
+        "address": "4765 Mission St, Excelsior",
+        "rating": 4.3,
+        "employees": 30,
+        "sqft": 5000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4348,
+          37.7604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "name": "Mollie Stone's Market",
+        "category": "Grocery",
+        "neighborhood": "Marina",
+        "address": "2084 Chestnut St, Marina",
+        "rating": 4.5,
+        "employees": 45,
+        "sqft": 7000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4441,
+          37.799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "name": "Safeway Haight-Ashbury",
+        "category": "Grocery",
+        "neighborhood": "Haight-Ashbury",
+        "address": "730 Stanyan St, Haight-Ashbury",
+        "rating": 3.7,
+        "employees": 90,
+        "sqft": 42000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4452,
+          37.7695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "name": "Noe Valley Farmers Market",
+        "category": "Grocery",
+        "neighborhood": "Noe Valley",
+        "address": "3861 24th St, Noe Valley",
+        "rating": 4.8,
+        "employees": 20,
+        "sqft": 2000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4336,
+          37.7503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Apple Store Union Square",
+        "category": "Electronics",
+        "neighborhood": "Union Square",
+        "address": "300 Post St, Union Square",
+        "rating": 4.3,
+        "employees": 150,
+        "sqft": 15000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407,
+          37.788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Best Buy SoMa",
+        "category": "Electronics",
+        "neighborhood": "SoMa",
+        "address": "1717 Harrison St, SoMa",
+        "rating": 3.9,
+        "employees": 200,
+        "sqft": 32000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4171,
+          37.7758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "B8ta SF",
+        "category": "Electronics",
+        "neighborhood": "Financial District",
+        "address": "100 Howard St, Financial District",
+        "rating": 4.4,
+        "employees": 45,
+        "sqft": 5000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4093,
+          37.7731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "name": "Samsung Experience Store",
+        "category": "Electronics",
+        "neighborhood": "Union Square",
+        "address": "195 Post St, Union Square",
+        "rating": 4.0,
+        "employees": 55,
+        "sqft": 8000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4069,
+          37.7876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Nordstrom SF",
+        "category": "Fashion",
+        "neighborhood": "Union Square",
+        "address": "865 Market St, Union Square",
+        "rating": 4.2,
+        "employees": 300,
+        "sqft": 240000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4056,
+          37.7852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "Zara Union Square",
+        "category": "Fashion",
+        "neighborhood": "Union Square",
+        "address": "250 Post St, Union Square",
+        "rating": 3.7,
+        "employees": 85,
+        "sqft": 18000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4063,
+          37.7869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Levi's Flagship Store",
+        "category": "Fashion",
+        "neighborhood": "SoMa",
+        "address": "300 Mission St, SoMa",
+        "rating": 4.4,
+        "employees": 50,
+        "sqft": 8000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4041,
+          37.7883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "Patagonia",
+        "category": "Fashion",
+        "neighborhood": "Fisherman's Wharf",
+        "address": "770 North Point St, Fisherman's Wharf",
+        "rating": 4.6,
+        "employees": 45,
+        "sqft": 6000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4031,
+          37.7931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "Uniqlo Union Square",
+        "category": "Fashion",
+        "neighborhood": "Union Square",
+        "address": "111 Powell St, Union Square",
+        "rating": 4.1,
+        "employees": 90,
+        "sqft": 20000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4071,
+          37.7862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "name": "Gap Flagship",
+        "category": "Fashion",
+        "neighborhood": "Union Square",
+        "address": "890 Market St, Union Square",
+        "rating": 3.9,
+        "employees": 70,
+        "sqft": 22000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.406,
+          37.786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "name": "Macy's Union Square",
+        "category": "Fashion",
+        "neighborhood": "Union Square",
+        "address": "170 O'Farrell St, Union Square",
+        "rating": 3.8,
+        "employees": 500,
+        "sqft": 480000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075,
+          37.7855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "name": "H&M",
+        "category": "Fashion",
+        "neighborhood": "Union Square",
+        "address": "150 Powell St, Union Square",
+        "rating": 3.6,
+        "employees": 80,
+        "sqft": 15000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4067,
+          37.7862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "name": "Banana Republic Flagship",
+        "category": "Fashion",
+        "neighborhood": "Union Square",
+        "address": "256 Grant Ave, Union Square",
+        "rating": 3.9,
+        "employees": 65,
+        "sqft": 12000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4068,
+          37.7873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "Walgreens Castro",
+        "category": "Pharmacy",
+        "neighborhood": "Castro",
+        "address": "498 Castro St, Castro",
+        "rating": 3.8,
+        "employees": 35,
+        "sqft": 9000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4349,
+          37.7617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "CVS Mission",
+        "category": "Pharmacy",
+        "neighborhood": "Mission",
+        "address": "2950 Mission St, Mission",
+        "rating": 3.5,
+        "employees": 30,
+        "sqft": 8000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4212,
+          37.7637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Walgreens Financial District",
+        "category": "Pharmacy",
+        "neighborhood": "Financial District",
+        "address": "1 Market St, Financial District",
+        "rating": 3.6,
+        "employees": 28,
+        "sqft": 7000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.399,
+          37.7919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Rite Aid Haight-Ashbury",
+        "category": "Pharmacy",
+        "neighborhood": "Haight-Ashbury",
+        "address": "1198 Haight St, Haight-Ashbury",
+        "rating": 3.3,
+        "employees": 25,
+        "sqft": 6500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4471,
+          37.7698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "name": "Walgreens North Beach",
+        "category": "Pharmacy",
+        "neighborhood": "North Beach",
+        "address": "601 Vallejo St, North Beach",
+        "rating": 3.7,
+        "employees": 28,
+        "sqft": 7000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41,
+          37.8007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "name": "Walgreens Sunset District",
+        "category": "Pharmacy",
+        "neighborhood": "Sunset District",
+        "address": "3201 Noriega St, Sunset District",
+        "rating": 3.5,
+        "employees": 25,
+        "sqft": 6500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4947,
+          37.7617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "REI Co-op SoMa",
+        "category": "Sports",
+        "neighborhood": "SoMa",
+        "address": "840 Brannan St, SoMa",
+        "rating": 4.5,
+        "employees": 90,
+        "sqft": 22000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4149,
+          37.7694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "Nike San Francisco",
+        "category": "Sports",
+        "neighborhood": "Union Square",
+        "address": "278 Post St, Union Square",
+        "rating": 4.3,
+        "employees": 65,
+        "sqft": 12000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4067,
+          37.7877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "name": "Sports Basement Presidio",
+        "category": "Sports",
+        "neighborhood": "Presidio",
+        "address": "610 Mason St, Presidio",
+        "rating": 4.6,
+        "employees": 120,
+        "sqft": 78000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4605,
+          37.7982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "name": "Foot Locker Union Square",
+        "category": "Sports",
+        "neighborhood": "Union Square",
+        "address": "865 Market St, Union Square",
+        "rating": 3.9,
+        "employees": 35,
+        "sqft": 3500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4066,
+          37.7843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "name": "Adidas",
+        "category": "Sports",
+        "neighborhood": "Union Square",
+        "address": "258 Post St, Union Square",
+        "rating": 4.2,
+        "employees": 50,
+        "sqft": 8000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4068,
+          37.7878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "name": "lululemon",
+        "category": "Sports",
+        "neighborhood": "Union Square",
+        "address": "242 Post St, Union Square",
+        "rating": 4.4,
+        "employees": 45,
+        "sqft": 5000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4069,
+          37.7881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "name": "West Elm Hayes Valley",
+        "category": "Home",
+        "neighborhood": "Hayes Valley",
+        "address": "375 Hayes St, Hayes Valley",
+        "rating": 4.1,
+        "employees": 55,
+        "sqft": 10000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4225,
+          37.776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "name": "Crate & Barrel",
+        "category": "Home",
+        "neighborhood": "Union Square",
+        "address": "55 Stockton St, Union Square",
+        "rating": 4.2,
+        "employees": 70,
+        "sqft": 22000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4063,
+          37.7883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "name": "Williams-Sonoma",
+        "category": "Home",
+        "neighborhood": "Union Square",
+        "address": "340 Post St, Union Square",
+        "rating": 4.3,
+        "employees": 60,
+        "sqft": 8000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4072,
+          37.7885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "name": "Pottery Barn",
+        "category": "Home",
+        "neighborhood": "Union Square",
+        "address": "350 Post St, Union Square",
+        "rating": 4.2,
+        "employees": 50,
+        "sqft": 9000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4082,
+          37.7884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "name": "CB2",
+        "category": "Home",
+        "neighborhood": "SoMa",
+        "address": "685 Market St, SoMa",
+        "rating": 4.0,
+        "employees": 40,
+        "sqft": 7000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415,
+          37.7782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "name": "Home Depot SoMa",
+        "category": "Home",
+        "neighborhood": "SoMa",
+        "address": "555 Bryant St, SoMa",
+        "rating": 3.7,
+        "employees": 180,
+        "sqft": 95000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3993,
+          37.7634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "name": "Restoration Hardware",
+        "category": "Home",
+        "neighborhood": "Marina",
+        "address": "2104 Chestnut St, Marina",
+        "rating": 4.4,
+        "employees": 60,
+        "sqft": 25000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438,
+          37.799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "name": "Target SoMa",
+        "category": "Home",
+        "neighborhood": "SoMa",
+        "address": "789 Mission St, SoMa",
+        "rating": 3.8,
+        "employees": 200,
+        "sqft": 80000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4102,
+          37.7773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "name": "IKEA Planning Studio",
+        "category": "Home",
+        "neighborhood": "SoMa",
+        "address": "100 4th St, SoMa",
+        "rating": 4.1,
+        "employees": 35,
+        "sqft": 6000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.406,
+          37.7867
+        ]
+      }
+    }
+  ]
+}
